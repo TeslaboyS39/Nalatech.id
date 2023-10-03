@@ -1,0 +1,24 @@
+[
+    {
+      "userName": "admin1",
+      "email": "admin1@gmail.com",
+      "password": "abc123",
+      "role": "admin",
+      "profileUrl": "https://puskesmassentani.jayapurakab.go.id/wp-content/uploads/2020/07/profil-male-300x300.jpg",
+      "contact": "083891920504",
+      "status": "admin",
+      "description": "Just an ordinary admin, that's all.",
+      "balance": 0
+    },
+    {
+      "userName": "mitra1",
+      "email": "mitra1@gmail.com",
+      "password": "abc123",
+      "role": "mitra",
+      "profileUrl": "https://i.pinimg.com/originals/f1/0f/f7/f10ff70a7155e5ab666bcdd1b45b726d.jpg",
+      "contact": "081234567890",
+      "status": "seeker",
+      "description": "Fullstack Web Developer, 8 years experiences in Google",
+      "balance": 0
+    }
+]
